@@ -29,7 +29,7 @@ var __wpo = {
   },
   "externals": [],
   "hashesMap": {
-    "5e53ef208f3fa79a48f8374488f473c76e1233de": "/favicon.ico",
+    "0ebfec3ea2e8e8e898ba9b39fd2a89bb5ad51e02": "/favicon.ico",
     "d7d2e4d5ea5bceb34497c3839c6c7c1b07f2730b": "/2f1a976c9c35ffed9b7e23cf2cbf8f19.jpg",
     "02f3a21e393707d58d0f9d978481139f7db621fd": "/npm.intl.99b84809ea0820933180.chunk.js",
     "3fa2227794d24a19a42d1c9961a9c043571403da": "/npm.redux-saga.cb4ab14a2865c72ab519.chunk.js",
@@ -53,7 +53,7 @@ var __wpo = {
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "11/30/2020, 5:39:58 PM",
+  "version": "11/30/2020, 6:07:50 PM",
   "name": "webpack-offline",
   "pluginVersion": "5.0.6",
   "relativePaths": false
