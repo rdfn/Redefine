@@ -24,10 +24,10 @@ describe('<RepoListItem />', () => {
       owner: {
         login: 'mxstbr',
       },
-      html_url: 'https://github.com/react-boilerplate/react-boilerplate',
-      name: 'react-boilerplate',
+      html_url: 'https://github.com/react-redefine/react-redefine',
+      name: 'react-redefine',
       open_issues_count: 20,
-      full_name: 'react-boilerplate/react-boilerplate',
+      full_name: 'react-redefine/react-redefine',
     };
   });
 

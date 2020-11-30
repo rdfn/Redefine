@@ -6,7 +6,7 @@
 npm run setup
 ```
 
-Initializes a new project with this boilerplate. Deletes the `react-boilerplate`
+Initializes a new project with this redefine. Deletes the `react-redefine`
 git history, installs the dependencies and initializes a new repository.
 
 > Note: This command is self-destructive, once you've run it the init script is
@@ -27,7 +27,7 @@ Starts the development server running on `http://localhost:3000`
 npm run clean
 ```
 
-Deletes the example app, replacing it with the smallest amount of boilerplate
+Deletes the example app, replacing it with the smallest amount of redefine
 code necessary to start writing your app!
 
 > Note: This command is self-destructive, once you've run it you cannot run it
@@ -40,7 +40,7 @@ code necessary to start writing your app!
 npm run generate
 ```
 
-Allows you to auto-generate boilerplate code for common parts of your
+Allows you to auto-generate redefine code for common parts of your
 application, specifically `component`s, and `container`s. You can
 also run `npm run generate <part>` to skip the first selection. (e.g. `npm run generate container`)
 

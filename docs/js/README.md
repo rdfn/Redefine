@@ -2,7 +2,7 @@
 
 ## State management
 
-This boilerplate manages application state using [Redux](redux.md), makes it
+This redefine manages application state using [Redux](redux.md), makes it
 immutable with [`Immer`](immer.md) and keeps access performant
 via [`reselect`](reselect.md).
 

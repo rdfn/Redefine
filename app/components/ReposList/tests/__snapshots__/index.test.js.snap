@@ -69,14 +69,14 @@ exports[`<ReposList /> should render the repositories if loading was successful 
         >
           <a
             class="A-br8h0y-0 RepoLink-pvpwpn-0 eEveIZ"
-            href="https://github.com/react-boilerplate/react-boilerplate"
+            href="https://github.com/react-redefine/react-redefine"
             target="_blank"
           >
-            react-boilerplate
+            react-redefine
           </a>
           <a
             class="A-br8h0y-0 IssueLink-uyzonb-0 kUUUnc"
-            href="https://github.com/react-boilerplate/react-boilerplate/issues"
+            href="https://github.com/react-redefine/react-redefine/issues"
             target="_blank"
           >
             <svg

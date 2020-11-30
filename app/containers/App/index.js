@@ -32,10 +32,10 @@ export default function App() {
   return (
     <AppWrapper>
       <Helmet
-        titleTemplate="%s - React.js Boilerplate"
-        defaultTitle="React.js Boilerplate"
+        titleTemplate="%s - Redefine"
+        defaultTitle="Redefine"
       >
-        <meta name="description" content="A React.js Boilerplate application" />
+        <meta name="description" content="Redefine's Event Management Application" />
       </Helmet>
       <Header />
       <Switch>

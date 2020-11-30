@@ -4,10 +4,10 @@ exports[`<Header /> should render a div 1`] = `
 <div>
   <a
     class="A-br8h0y-0 A-p44m4v-0 cYguYL"
-    href="https://www.reactboilerplate.com/"
+    href="https://www.reactredefine.com/"
   >
     <img
-      alt="react-boilerplate - Logo"
+      alt="react-redefine - Logo"
       class="Img-sc-9pa8on-0 eepIiv"
       src="IMAGE_MOCK"
     />
