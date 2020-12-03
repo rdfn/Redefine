@@ -1,0 +1,67 @@
+{
+  "icons": [
+    {
+      "src": "/icon_180x180.d6c8b5154ad3b34843375d8539ef7405.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_167x167.5abe5824db9d337c0b1465d9104dea15.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_152x152.660d19035c1ec023eff9ec784ebf6e71.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_120x120.6d6b9d98cda62402aab4a0acc18cd85c.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_512x512.6bd4d00ca55da298b1fe152a71470554.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.b29aa1d105941d4970983ac5b7448138.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.271f82da272e79a4f583329c602c57c4.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_144x144.fdc316a7f46071eb19b05c03b11c45bc.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.25b27be16eba65c77238ce318efc7cb3.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.c6b73a22bb1d6e97cde232f4889f9f43.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_72x72.27ab8319a5391ade3bcb8732fe720927.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ],
+  "name": "Redefine",
+  "short_name": "Redefine",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "The Volunteer Management application of Redefine",
+  "background_color": "#f2f2f2",
+  "theme_color": "#D3551F"
+}
