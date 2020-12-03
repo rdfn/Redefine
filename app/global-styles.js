@@ -6,18 +6,22 @@ const GlobalStyle = createGlobalStyle`
     height: 100%;
     width: 100%;
     line-height: 1.5;
+    background: #F2F2F2;
   }
 
   body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Indie Flower', cursive;
   }
 
   body.fontLoaded {
-    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Indie Flower', cursive;
   }
 
   #app {
-    background-color: #fafafa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f2f2f2;
     min-height: 100%;
     min-width: 100%;
   }
