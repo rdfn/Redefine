@@ -119,17 +119,17 @@ module.exports = require('./webpack.base.babel')({
       name: 'Redefine',
       short_name: 'Redefine',
       description: 'The Volunteer Management application of Redefine',
-      background_color: '#fafafa',
-      theme_color: '#b1624d',
+      background_color: '#f2f2f2',
+      theme_color: '#D3551F',
       inject: true,
       ios: true,
       icons: [
         {
-          src: path.resolve('app/images/redefine_logo.png'),
+          src: path.resolve('app/images/logo.png'),
           sizes: [72, 96, 128, 144, 192, 384, 512],
         },
         {
-          src: path.resolve('app/images/redefine_logo.png'),
+          src: path.resolve('app/images/logo.png'),
           sizes: [120, 152, 167, 180],
           ios: true,
         },

@@ -26,7 +26,6 @@ const AppWrapper = styled.div`
   display: flex;
   height: 100%;
   display: flex;
-  flex-direction: column;
   background-color: #f2f2f2;
   justify-content: space-around;
   align-items: center;
@@ -51,8 +50,8 @@ const AppWrapper = styled.div`
     }
   }
   .logo {
-    margin-top: 100px;
-    width: 15%;
+    margin-top: 75px;
+    width: 30%;
   }
 `;
 
