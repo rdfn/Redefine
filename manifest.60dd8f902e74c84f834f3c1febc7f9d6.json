@@ -59,9 +59,9 @@
   "name": "Redefine",
   "short_name": "Redefine",
   "orientation": "portrait",
-  "display": "standalone",
+  "display": "fullscreen",
   "start_url": ".",
   "description": "The Volunteer Management application of Redefine",
-  "background_color": "#f2f2f2",
-  "theme_color": "#D3551F"
+  "background_color": "#ffffff",
+  "theme_color": "#D35520"
 }
