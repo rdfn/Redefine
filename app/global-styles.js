@@ -18,11 +18,8 @@ const GlobalStyle = createGlobalStyle`
   }
 
   #app {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     background-color: #f2f2f2;
-    min-height: 100%;
+    height: 100%;
     min-width: 100%;
   }
 

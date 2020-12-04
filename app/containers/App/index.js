@@ -23,23 +23,23 @@ import GlobalStyle from '../../global-styles';
 const AppWrapper = styled.div`
   max-width: calc(768px + 16px * 2);
   margin: 0 auto;
-  display: flex;
   height: 100%;
   display: flex;
   background-color: #f2f2f2;
   justify-content: space-around;
   align-items: center;
   padding: 0 16px;
-  flex-direction: column;
+  /* flex-direction: column; */
   .centerWrapper {
     display: flex;
     justify-content: center;
+    ${'' /* align-items: center; */}
     position: relative;
     p {
       font-family: 'Indie Flower', cursive;
       opacity: 0;
       padding: 0;
-      font-size: 18px;
+      font-size: 1.5rem;
       margin: 0;
       position: absolute;
       bottom: -15px;
@@ -49,7 +49,7 @@ const AppWrapper = styled.div`
       animation-iteration-count: infinite;
     }
     .loader {
-      width: 40%;
+      width: 80%;
     }
   }
   .logo {
@@ -71,9 +71,9 @@ export default function App() {
     <AppWrapper>
       <div className="centerWrapper">
         <img className="loader" src={boyLoader} alt="loader" />
-        <p>Loading...</p>
+        <p>on the way ...</p>
       </div>
-      <img className="logo" src={logo} alt="logo" />
+      {/* <img className="logo" src={logo} alt="logo" /> */}
       {/* <Helmet
         titleTemplate="%s - Redefine"
         defaultTitle="Redefine"
