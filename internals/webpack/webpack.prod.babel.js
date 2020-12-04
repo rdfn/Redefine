@@ -119,9 +119,10 @@ module.exports = require('./webpack.base.babel')({
       name: 'Redefine',
       short_name: 'Redefine',
       description: 'The Volunteer Management application of Redefine',
-      background_color: '#f2f2f2',
+      background_color: '#ffffff',
       theme_color: '#D3551F',
       inject: true,
+      display: "fullscreen",
       ios: true,
       icons: [
         {

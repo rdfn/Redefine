@@ -37,13 +37,16 @@ const AppWrapper = styled.div`
     position: relative;
     p {
       font-family: 'Indie Flower', cursive;
+      opacity: 0;
       padding: 0;
       font-size: 18px;
       margin: 0;
       position: absolute;
       bottom: -15px;
       color: #D3551F;
-      ${'' /* font-weight: bold; */}
+      animation: fade-in 2s;
+      animation-delay: 2s;
+      animation-iteration-count: infinite;
     }
     .loader {
       width: 40%;
@@ -52,6 +55,14 @@ const AppWrapper = styled.div`
   .logo {
     margin-top: 75px;
     width: 30%;
+  }
+  @keyframes fade-in {
+    0% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
   }
 `;
 
